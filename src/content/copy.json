@@ -1,0 +1,911 @@
+[
+  {
+    "label": "SEÇÃO 01 | HERO",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "**Cole Odontologia • Santa Cruz do Sul/RS**"
+      },
+      {
+        "type": "h2",
+        "text": "Seu sorriso pode ser tão único quanto a sua identidade."
+      },
+      {
+        "type": "p",
+        "text": "Na Cole Odontologia, cada tratamento começa pela compreensão de quem você é, e não por um padrão pronto de sorriso."
+      },
+      {
+        "type": "p",
+        "text": "O **Dr. Rafael Cole** atua com odontologia estética, lentes, implantes e reabilitação oral, unindo **planejamento, precisão e naturalidade** para construir soluções que façam sentido para cada paciente."
+      },
+      {
+        "type": "p",
+        "text": "**Dr. Rafael Cole**  \nCirurgião-Dentista  \n**CRO/RS 30198**"
+      },
+      {
+        "type": "p",
+        "text": "📍 Santa Cruz do Sul/RS"
+      },
+      {
+        "type": "cta",
+        "text": "AGENDAR MINHA AVALIAÇÃO"
+      },
+      {
+        "type": "note",
+        "text": "Atendimento personalizado na Cole Odontologia."
+      }
+    ]
+  },
+  {
+    "label": "SEÇÃO 02 | PRINCIPAIS SOLUÇÕES",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Diferentes necessidades. O mesmo cuidado com o todo."
+      },
+      {
+        "type": "p",
+        "text": "Nem sempre uma queixa estética envolve apenas estética."
+      },
+      {
+        "type": "p",
+        "text": "Assim como a ausência de um dente não afeta apenas a mastigação."
+      },
+      {
+        "type": "p",
+        "text": "Por isso, cada caso é avaliado considerando **aparência, função, proporção e integração com o restante do sorriso.**"
+      },
+      {
+        "type": "h3",
+        "text": "Estética Dental"
+      },
+      {
+        "type": "p",
+        "text": "Para quem deseja melhorar características do sorriso sem abrir mão da naturalidade."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Lentes",
+          "Facetas",
+          "Planejamento estético",
+          "Harmonia do sorriso"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Implantes Dentários"
+      },
+      {
+        "type": "p",
+        "text": "Para recuperar dentes ausentes e restabelecer estética, função e segurança no dia a dia."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Implantes",
+          "Reposição dentária",
+          "Recuperação estética e funcional",
+          "Planejamento reabilitador"
+        ]
+      },
+      {
+        "type": "h3",
+        "text": "Reabilitação Oral"
+      },
+      {
+        "type": "p",
+        "text": "Para situações em que o sorriso precisa ser analisado de forma mais ampla, integrando diferentes necessidades em um único planejamento."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Função",
+          "Estética",
+          "Integração de tratamentos",
+          "Planejamento global"
+        ]
+      },
+      {
+        "type": "cta",
+        "text": "QUERO ENTENDER O MEU CASO"
+      }
+    ]
+  },
+  {
+    "label": "SEÇÃO 03 | ESTÉTICA DENTAL, LENTES E FACETAS",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Um tratamento estético não deveria apagar aquilo que torna seu sorriso seu."
+      },
+      {
+        "type": "p",
+        "text": "É comum pensar em lentes ou facetas imaginando apenas dentes mais claros, alinhados ou simétricos."
+      },
+      {
+        "type": "p",
+        "text": "Mas existe uma diferença importante entre **mudar um sorriso** e **planejar um sorriso para uma pessoa específica**."
+      },
+      {
+        "type": "p",
+        "text": "Formato do rosto."
+      },
+      {
+        "type": "p",
+        "text": "Proporção dos dentes."
+      },
+      {
+        "type": "p",
+        "text": "Linha do sorriso."
+      },
+      {
+        "type": "p",
+        "text": "Características naturais."
+      },
+      {
+        "type": "p",
+        "text": "Expectativas."
+      },
+      {
+        "type": "p",
+        "text": "Tudo isso precisa conversar entre si."
+      },
+      {
+        "type": "p",
+        "text": "Por isso, o planejamento estético conduzido pelo Dr. Rafael parte da individualidade de cada paciente."
+      },
+      {
+        "type": "h3",
+        "text": "Lentes e facetas não começam pela escolha de um modelo."
+      },
+      {
+        "type": "p",
+        "text": "Começam pela avaliação."
+      },
+      {
+        "type": "p",
+        "text": "A partir dela, é possível compreender o que pode ser preservado, quais características podem ser aprimoradas e qual abordagem faz sentido para aquele sorriso."
+      },
+      {
+        "type": "p",
+        "text": "O objetivo é buscar um resultado que pareça integrado ao paciente, e não simplesmente reproduzir um padrão."
+      },
+      {
+        "type": "h2",
+        "text": "Naturalidade não significa ausência de mudança."
+      },
+      {
+        "type": "p",
+        "text": "Significa fazer com que a mudança pertença a você."
+      },
+      {
+        "type": "cta",
+        "text": "QUERO AVALIAR MEU SORRISO"
+      }
+    ]
+  },
+  {
+    "label": "SEÇÃO 04 | IMPLANTES DENTÁRIOS",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Recuperar um dente é também recuperar parte da forma como você vive o sorriso."
+      },
+      {
+        "type": "p",
+        "text": "A ausência dentária pode interferir em situações muito simples."
+      },
+      {
+        "type": "p",
+        "text": "Na hora de mastigar."
+      },
+      {
+        "type": "p",
+        "text": "Ao sorrir em uma foto."
+      },
+      {
+        "type": "p",
+        "text": "Durante uma conversa."
+      },
+      {
+        "type": "p",
+        "text": "Ou até na forma como a pessoa evita determinados alimentos e movimentos sem perceber."
+      },
+      {
+        "type": "p",
+        "text": "Os implantes dentários podem fazer parte da recuperação dessa função e dessa segurança."
+      },
+      {
+        "type": "p",
+        "text": "Mas o planejamento não termina na colocação de um implante."
+      },
+      {
+        "type": "p",
+        "text": "É preciso considerar como aquele novo elemento irá se integrar ao restante da boca, tanto funcionalmente quanto visualmente."
+      },
+      {
+        "type": "h3",
+        "text": "Por isso, o planejamento considera o conjunto:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Condições do caso.",
+          "Necessidades funcionais.",
+          "Relação com os dentes vizinhos.",
+          "Estética.",
+          "Proporção.",
+          "Estratégia de reabilitação."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Porque o objetivo não é simplesmente preencher um espaço."
+      },
+      {
+        "type": "p",
+        "text": "É **reintegrar aquele dente ao sorriso.**"
+      },
+      {
+        "type": "cta",
+        "text": "CONVERSAR SOBRE IMPLANTES"
+      }
+    ]
+  },
+  {
+    "label": "SEÇÃO 05 | REABILITAÇÃO ORAL",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Alguns casos não precisam de um procedimento. Precisam de uma visão completa."
+      },
+      {
+        "type": "p",
+        "text": "Quando diferentes dentes apresentam desgastes, perdas, alterações estéticas ou comprometimentos funcionais, tratar cada ponto isoladamente pode não ser suficiente."
+      },
+      {
+        "type": "p",
+        "text": "É nesse cenário que entra a **reabilitação oral**."
+      },
+      {
+        "type": "p",
+        "text": "Ela parte de uma leitura mais ampla do sorriso para organizar as necessidades e definir uma estratégia de tratamento coerente."
+      },
+      {
+        "type": "h3",
+        "text": "Um planejamento pode envolver diferentes objetivos:"
+      },
+      {
+        "type": "p",
+        "text": "**Recuperar função.**"
+      },
+      {
+        "type": "p",
+        "text": "**Restabelecer dentes ausentes ou comprometidos.**"
+      },
+      {
+        "type": "p",
+        "text": "**Melhorar estética e proporção.**"
+      },
+      {
+        "type": "p",
+        "text": "**Integrar diferentes tratamentos.**"
+      },
+      {
+        "type": "p",
+        "text": "**Construir equilíbrio entre todas as etapas.**"
+      },
+      {
+        "type": "p",
+        "text": "Não se trata de fazer mais procedimentos."
+      },
+      {
+        "type": "p",
+        "text": "Trata-se de compreender **quais procedimentos realmente precisam fazer parte do mesmo plano.**"
+      },
+      {
+        "type": "cta",
+        "text": "QUERO ENTENDER AS POSSIBILIDADES"
+      }
+    ]
+  },
+  {
+    "label": "SEÇÃO 06 | SOBRE O DR. RAFAEL COLE",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Precisão nos detalhes. Visão do todo."
+      },
+      {
+        "type": "p",
+        "text": "O **Dr. Rafael Cole**, Cirurgião-Dentista inscrito no **CRO/RS 30198**, está à frente da Cole Odontologia, em Santa Cruz do Sul."
+      },
+      {
+        "type": "p",
+        "text": "Sua atuação é direcionada principalmente à **odontologia estética, implantodontia e reabilitação oral**."
+      },
+      {
+        "type": "p",
+        "text": "Mas o trabalho não parte simplesmente da pergunta:"
+      },
+      {
+        "type": "p",
+        "text": "**“Qual procedimento fazer?”**"
+      },
+      {
+        "type": "p",
+        "text": "Antes, é preciso entender:"
+      },
+      {
+        "type": "p",
+        "text": "**O que esse sorriso precisa?**"
+      },
+      {
+        "type": "p",
+        "text": "**O que deve ser preservado?**"
+      },
+      {
+        "type": "p",
+        "text": "**O que pode ser melhorado?**"
+      },
+      {
+        "type": "p",
+        "text": "**E como cada decisão interfere no resultado final?**"
+      },
+      {
+        "type": "p",
+        "text": "Essa forma de pensar orienta uma odontologia baseada em **planejamento criterioso, individualização, precisão e naturalidade.**"
+      },
+      {
+        "type": "p",
+        "text": "Cada sorriso possui proporções, características e necessidades próprias."
+      },
+      {
+        "type": "p",
+        "text": "E é justamente essa individualidade que deve orientar o tratamento."
+      },
+      {
+        "type": "p",
+        "text": "**Transformar sorrisos em marcas pessoais é fazer com que o resultado tenha identidade, não aparência de fórmula pronta.**"
+      },
+      {
+        "type": "p",
+        "text": "**Dr. Rafael Cole**  \nCirurgião-Dentista  \n**CRO/RS 30198**"
+      },
+      {
+        "type": "p",
+        "text": "📍 Cole Odontologia · Santa Cruz do Sul/RS"
+      }
+    ]
+  },
+  {
+    "label": "SEÇÃO 07 | COMO FUNCIONA O PROCESSO",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Um bom resultado começa muito antes do procedimento."
+      },
+      {
+        "type": "p",
+        "text": "Principalmente em estética, implantes e reabilitações mais abrangentes, a execução é apenas uma das etapas."
+      },
+      {
+        "type": "p",
+        "text": "Existe um processo antes dela."
+      },
+      {
+        "type": "h3",
+        "text": "01. Avaliação"
+      },
+      {
+        "type": "p",
+        "text": "Primeiro, o Dr. Rafael entende suas necessidades, características e expectativas."
+      },
+      {
+        "type": "h3",
+        "text": "02. Diagnóstico e planejamento"
+      },
+      {
+        "type": "p",
+        "text": "O caso é analisado para identificar as possibilidades e construir uma estratégia individualizada."
+      },
+      {
+        "type": "h3",
+        "text": "03. Apresentação do plano"
+      },
+      {
+        "type": "p",
+        "text": "Você entende o que foi identificado, quais caminhos podem ser considerados e como o tratamento pode ser conduzido."
+      },
+      {
+        "type": "h3",
+        "text": "04. Tratamento"
+      },
+      {
+        "type": "p",
+        "text": "As etapas são realizadas de acordo com o planejamento estabelecido para o caso."
+      },
+      {
+        "type": "h3",
+        "text": "05. Acompanhamento"
+      },
+      {
+        "type": "p",
+        "text": "O tratamento não termina simplesmente na última etapa clínica. Quando necessário, são realizados acompanhamento e orientações posteriores."
+      },
+      {
+        "type": "h2",
+        "text": "Você entende o caminho antes de percorrê-lo."
+      },
+      {
+        "type": "cta",
+        "text": "COMEÇAR PELA AVALIAÇÃO"
+      }
+    ]
+  },
+  {
+    "label": "SEÇÃO 08 | DEPOIMENTOS",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Quem procura precisão também percebe os detalhes do atendimento."
+      },
+      {
+        "type": "p",
+        "text": "A proposta da Cole Odontologia não precisa ser percebida apenas no resultado final."
+      },
+      {
+        "type": "p",
+        "text": "Ela aparece na explicação, na condução do caso, no cuidado e nas decisões tomadas durante o processo."
+      },
+      {
+        "type": "p",
+        "text": "Veja algumas experiências compartilhadas por pacientes no Google:"
+      },
+      {
+        "type": "h3",
+        "text": "★★★★★"
+      },
+      {
+        "type": "p",
+        "text": "“Excelente profissional, alta qualidade na aplicação dos procedimentos, orientando o que faz ou não faz sentido no meu caso, atuando de forma preventiva!”"
+      },
+      {
+        "type": "p",
+        "text": "**Zalmiro Ramos**"
+      },
+      {
+        "type": "h3",
+        "text": "★★★★★"
+      },
+      {
+        "type": "p",
+        "text": "“O melhor doutor que já consultei. Simpático, atencioso, excelente profissional! Me explicou e mostrou tudo o que iria fazer, executou o procedimento com perfeição. Recomendo demais!”"
+      },
+      {
+        "type": "p",
+        "text": "**Yuri Bressan**"
+      },
+      {
+        "type": "h3",
+        "text": "★★★★★"
+      },
+      {
+        "type": "p",
+        "text": "“Profissional de excelência e um verdadeiro especialista no que faz. Destaca-se pelo altíssimo nível técnico, além de ser uma pessoa extremamente correta e humana. Recomendo fortemente.”"
+      },
+      {
+        "type": "p",
+        "text": "**Jose Otavio Machry da Silva**"
+      },
+      {
+        "type": "h3",
+        "text": "★★★★★"
+      },
+      {
+        "type": "p",
+        "text": "“Atendimento muito bom e o resultado melhor ainda.”"
+      },
+      {
+        "type": "p",
+        "text": "**Aniel Andrei Cole**"
+      },
+      {
+        "type": "h3",
+        "text": "★★★★★"
+      },
+      {
+        "type": "p",
+        "text": "“Muito profissional.”"
+      },
+      {
+        "type": "p",
+        "text": "**Leandro Maceieski**"
+      },
+      {
+        "type": "h3",
+        "text": "★★★★★"
+      },
+      {
+        "type": "p",
+        "text": "“Ótimo atendimento.”"
+      },
+      {
+        "type": "p",
+        "text": "**Luis**"
+      },
+      {
+        "type": "h2",
+        "text": "Planejamento, explicação e cuidado aparecem também na experiência de quem já foi atendido."
+      },
+      {
+        "type": "cta",
+        "text": "AGENDAR MINHA AVALIAÇÃO"
+      }
+    ]
+  },
+  {
+    "label": "SEÇÃO 09 | PARA QUEM ESSA ABORDAGEM FAZ SENTIDO",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Talvez você já saiba o que deseja mudar. Talvez ainda esteja tentando entender."
+      },
+      {
+        "type": "p",
+        "text": "Você não precisa chegar à consulta com o nome do tratamento definido."
+      },
+      {
+        "type": "p",
+        "text": "Essa abordagem pode fazer sentido para quem:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Deseja melhorar a estética do sorriso **sem buscar um resultado artificial**.",
+          "Está considerando **lentes ou facetas**, mas quer entender antes se existe indicação.",
+          "Percebe que formato, proporção ou aparência de alguns dentes poderiam ser melhorados.",
+          "Possui um ou mais **dentes ausentes**.",
+          "Precisa recuperar segurança e função por meio de **implantes dentários**.",
+          "Possui necessidades estéticas e funcionais ao mesmo tempo.",
+          "Percebe que seu caso pode exigir uma **reabilitação mais abrangente**.",
+          "Busca um tratamento no qual as decisões sejam explicadas e planejadas antes da execução.",
+          "Valoriza **naturalidade, individualidade e atenção aos detalhes**."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Você não precisa escolher um procedimento antes de entender o seu sorriso."
+      },
+      {
+        "type": "p",
+        "text": "É justamente para isso que existe a avaliação."
+      },
+      {
+        "type": "cta",
+        "text": "QUERO CONVERSAR SOBRE O MEU CASO"
+      }
+    ]
+  },
+  {
+    "label": "SEÇÃO 10 | COLE ODONTOLOGIA",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Um ambiente pensado com o mesmo cuidado aplicado aos tratamentos."
+      },
+      {
+        "type": "p",
+        "text": "A experiência de um tratamento odontológico não acontece apenas durante o procedimento."
+      },
+      {
+        "type": "p",
+        "text": "Ela começa na chegada."
+      },
+      {
+        "type": "p",
+        "text": "Na conversa."
+      },
+      {
+        "type": "p",
+        "text": "Na forma como as informações são apresentadas."
+      },
+      {
+        "type": "p",
+        "text": "No conforto durante cada etapa."
+      },
+      {
+        "type": "p",
+        "text": "E na segurança de perceber que existe organização por trás de cada decisão."
+      },
+      {
+        "type": "p",
+        "text": "A **Cole Odontologia**, em Santa Cruz do Sul, foi estruturada para oferecer uma experiência compatível com essa forma de trabalhar."
+      },
+      {
+        "type": "h3",
+        "text": "Um espaço que valoriza:"
+      },
+      {
+        "type": "p",
+        "text": "**Conforto**  \nPara tornar a experiência mais tranquila desde o primeiro contato."
+      },
+      {
+        "type": "p",
+        "text": "**Organização**  \nPorque precisão também depende de processo."
+      },
+      {
+        "type": "p",
+        "text": "**Tecnologia**  \nComo recurso para apoiar diagnóstico, planejamento e execução dos tratamentos."
+      },
+      {
+        "type": "p",
+        "text": "**Atenção aos detalhes**  \nDo ambiente à condução clínica."
+      },
+      {
+        "type": "p",
+        "text": "**Atendimento personalizado**  \nPorque diferentes pacientes não deveriam receber exatamente a mesma solução."
+      },
+      {
+        "type": "h2",
+        "text": "Cole Odontologia · Santa Cruz do Sul"
+      },
+      {
+        "type": "p",
+        "text": "**Rua 28 de Setembro, 36, Sala 607**  \nCentro, Santa Cruz do Sul/RS"
+      },
+      {
+        "type": "cta",
+        "text": "AGENDAR ATENDIMENTO NA COLE ODONTOLOGIA"
+      }
+    ]
+  },
+  {
+    "label": "SEÇÃO 11 | PERGUNTAS FREQUENTES",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Antes de começar, algumas dúvidas são naturais."
+      },
+      {
+        "type": "h3",
+        "text": "Como funciona a primeira avaliação?"
+      },
+      {
+        "type": "p",
+        "text": "A avaliação é o primeiro momento para compreender suas necessidades, expectativas e condições clínicas."
+      },
+      {
+        "type": "p",
+        "text": "A partir dessa análise, o Dr. Rafael consegue explicar quais possibilidades podem fazer sentido para o seu caso e como seria o planejamento."
+      },
+      {
+        "type": "h3",
+        "text": "Preciso saber qual tratamento quero antes de agendar?"
+      },
+      {
+        "type": "p",
+        "text": "Não."
+      },
+      {
+        "type": "p",
+        "text": "Você pode procurar a Cole Odontologia sabendo apenas aquilo que está incomodando ou o que deseja melhorar."
+      },
+      {
+        "type": "p",
+        "text": "A função da avaliação é justamente entender o caso antes de definir um procedimento."
+      },
+      {
+        "type": "h3",
+        "text": "Como saber se lentes ou facetas são indicadas para mim?"
+      },
+      {
+        "type": "p",
+        "text": "A indicação depende das características de cada sorriso."
+      },
+      {
+        "type": "p",
+        "text": "Estrutura dental, proporção, necessidades funcionais, expectativas e outras condições precisam ser avaliadas antes da definição do tratamento."
+      },
+      {
+        "type": "p",
+        "text": "Por isso, a decisão não deve partir apenas do desejo de colocar lentes ou facetas."
+      },
+      {
+        "type": "h3",
+        "text": "Lentes e facetas precisam deixar o sorriso artificial?"
+      },
+      {
+        "type": "p",
+        "text": "O planejamento estético pode considerar características individuais como proporção, formato, relação com o rosto e integração entre os dentes."
+      },
+      {
+        "type": "p",
+        "text": "Na Cole Odontologia, a proposta é buscar **naturalidade e individualização**, e não reproduzir um padrão único de sorriso."
+      },
+      {
+        "type": "h3",
+        "text": "Como funciona o planejamento de um tratamento estético?"
+      },
+      {
+        "type": "p",
+        "text": "Primeiro é realizada uma avaliação do caso."
+      },
+      {
+        "type": "p",
+        "text": "A partir dela, são analisadas as necessidades, possibilidades e objetivos do paciente antes da definição das etapas do tratamento."
+      },
+      {
+        "type": "h3",
+        "text": "Implantes dentários servem apenas para substituir dentes ausentes?"
+      },
+      {
+        "type": "p",
+        "text": "A reposição de dentes ausentes é uma das principais aplicações dos implantes."
+      },
+      {
+        "type": "p",
+        "text": "No entanto, o planejamento também considera função, estética e integração com o restante do sorriso, especialmente quando o implante faz parte de uma reabilitação mais abrangente."
+      },
+      {
+        "type": "h3",
+        "text": "Como saber se preciso de um implante?"
+      },
+      {
+        "type": "p",
+        "text": "Isso precisa ser definido após avaliação clínica."
+      },
+      {
+        "type": "p",
+        "text": "O diagnóstico permite entender as condições do caso e quais possibilidades podem ser consideradas."
+      },
+      {
+        "type": "h3",
+        "text": "O que é reabilitação oral?"
+      },
+      {
+        "type": "p",
+        "text": "É uma abordagem utilizada quando existe a necessidade de recuperar diferentes aspectos do sorriso de maneira integrada."
+      },
+      {
+        "type": "p",
+        "text": "Pode envolver função, estética, dentes ausentes ou comprometidos e diferentes tratamentos dentro de um planejamento mais amplo."
+      },
+      {
+        "type": "h3",
+        "text": "Quanto tempo dura um tratamento?"
+      },
+      {
+        "type": "p",
+        "text": "Depende do tipo de procedimento e da complexidade de cada caso."
+      },
+      {
+        "type": "p",
+        "text": "Após a avaliação e o planejamento, é possível compreender melhor as etapas necessárias e a duração prevista do tratamento indicado."
+      },
+      {
+        "type": "h3",
+        "text": "Onde fica a Cole Odontologia?"
+      },
+      {
+        "type": "p",
+        "text": "A clínica está localizada na:"
+      },
+      {
+        "type": "p",
+        "text": "**Rua 28 de Setembro, 36, Sala 607**  \n**Centro, Santa Cruz do Sul/RS**"
+      },
+      {
+        "type": "h3",
+        "text": "Como faço para agendar?"
+      },
+      {
+        "type": "p",
+        "text": "O contato pode ser feito diretamente pelo WhatsApp da Cole Odontologia."
+      },
+      {
+        "type": "p",
+        "text": "**WhatsApp: (51) 99927-0198**"
+      },
+      {
+        "type": "cta",
+        "text": "FALAR COM A COLE ODONTOLOGIA"
+      }
+    ]
+  },
+  {
+    "label": "SEÇÃO 12 | CTA FINAL",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Seu sorriso não precisa se encaixar em um padrão."
+      },
+      {
+        "type": "p",
+        "text": "Precisa fazer sentido para você."
+      },
+      {
+        "type": "p",
+        "text": "Seja para melhorar a estética, recuperar um dente ausente ou reconstruir diferentes aspectos do sorriso, o primeiro passo é o mesmo:"
+      },
+      {
+        "type": "p",
+        "text": "**entender o caso antes de definir o tratamento.**"
+      },
+      {
+        "type": "p",
+        "text": "Com planejamento."
+      },
+      {
+        "type": "p",
+        "text": "Com precisão."
+      },
+      {
+        "type": "p",
+        "text": "Com atenção aos detalhes."
+      },
+      {
+        "type": "p",
+        "text": "E respeitando aquilo que torna cada sorriso individual."
+      },
+      {
+        "type": "h3",
+        "text": "Dr. Rafael Cole"
+      },
+      {
+        "type": "p",
+        "text": "Cirurgião-Dentista  \n**CRO/RS 30198**"
+      },
+      {
+        "type": "p",
+        "text": "Odontologia Estética • Lentes e Facetas • Implantes • Reabilitação Oral"
+      },
+      {
+        "type": "p",
+        "text": "📍 Cole Odontologia · Santa Cruz do Sul/RS"
+      },
+      {
+        "type": "cta",
+        "text": "AGENDAR MINHA AVALIAÇÃO"
+      },
+      {
+        "type": "note",
+        "text": "Seu primeiro contato pode começar pelo WhatsApp."
+      }
+    ]
+  },
+  {
+    "label": "RODAPÉ",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "**RAFAEL COLE**"
+      },
+      {
+        "type": "p",
+        "text": "Dr. Rafael Cole · Cirurgião-Dentista  \n**CRO/RS 30198**"
+      },
+      {
+        "type": "p",
+        "text": "Rua 28 de Setembro, 36, Sala 607  \nCentro, Santa Cruz do Sul/RS"
+      },
+      {
+        "type": "p",
+        "text": "**WhatsApp:** (51) 99927-0198  \n**Instagram:** @rafael.cole"
+      },
+      {
+        "type": "p",
+        "text": "Odontologia Estética • Implantodontia • Reabilitação Oral"
+      },
+      {
+        "type": "p",
+        "text": "**A indicação de qualquer procedimento depende de avaliação clínica individual. Resultados e possibilidades de tratamento variam conforme as características de cada paciente.**"
+      },
+      {
+        "type": "p",
+        "text": "© Cole Odontologia. Todos os direitos reservados."
+      }
+    ]
+  }
+]
