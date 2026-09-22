@@ -40,3 +40,9 @@ Satoshi: arquivo fornecido no ZIP, distribuído pela [Fontshare](https://www.fon
 Origem: `Dentist_treating_patient_in_clinic_20260922103801.mp4`, fornecido pelo usuário durante a conversa. Integração final em `public/videos/dr-rafael-hero.mp4`. Original preservado em Downloads.
 
 O vídeo foi convertido de 1920 × 1080 para 1600 × 900, H.264, 24 fps, sem áudio, com `faststart` para reprodução progressiva. Duração: 10 segundos. O poster em `public/images/hero-poster.jpg` foi extraído do mesmo arquivo. Não foi criado um novo vídeo.
+
+### Versão vertical (celular)
+
+Origem: `Transform_video_to_vertical_format_20260922165451.mp4`, fornecido pelo usuário durante a conversa. Integração em `public/videos/dr-rafael-hero-mobile.mp4`. Original preservado em Downloads.
+
+A faixa de vídeo foi copiada sem recompressão, para manter a qualidade original: 1080 × 1920, H.264 High, 24 fps, cerca de 2,5 Mbps, 10 segundos. Foram apenas removidos o áudio e aplicado `faststart`. O poster em `public/images/hero-poster-mobile.jpg` é o primeiro quadro do mesmo arquivo.

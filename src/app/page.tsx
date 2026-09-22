@@ -1,6 +1,7 @@
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { FloatingContact } from "@/components/floating-contact";
+import { ScrollReveal } from "@/components/scroll-reveal";
 import { Hero } from "@/components/sections/hero";
 import { Solutions } from "@/components/sections/solutions";
 import { About, Process } from "@/components/sections/about";
@@ -64,6 +65,7 @@ export default function Home() {
       </main>
       <Footer />
       <FloatingContact />
+      <ScrollReveal />
     </>
   );
 }

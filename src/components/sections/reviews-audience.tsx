@@ -33,6 +33,12 @@ export function Reviews() {
 }
 
 export function Audience() {
+  const items = copy[8].blocks[3].items!.map((item, i) => (
+    <li key={i}>
+      <span className="audience-index">0{i + 1}</span>
+      <Rich text={item} />
+    </li>
+  ));
   return (
     <section id="para-voce" className="section light audience">
       <div className="container">
@@ -42,14 +48,16 @@ export function Audience() {
             <h2>{textAt(8, 0)}</h2>
             <Blocks section={8} from={1} to={3} />
           </div>
-          <ul className="audience-list">
-            {copy[8].blocks[3].items!.map((item, i) => (
-              <li key={i}>
-                <span className="audience-index">0{i + 1}</span>
-                <Rich text={item} />
-              </li>
-            ))}
-          </ul>
+          <div className="audience-marquee">
+            <div className="audience-viewport">
+              <div className="audience-track">
+                <ul className="audience-list">{items}</ul>
+                <ul className="audience-list" aria-hidden="true">
+                  {items}
+                </ul>
+              </div>
+            </div>
+          </div>
         </div>
         <div className="audience-ending">
           <Blocks section={8} from={4} />

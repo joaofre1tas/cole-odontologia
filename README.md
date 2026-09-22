@@ -52,9 +52,11 @@ docs/                    Conteúdo original, mídia e registro de validação
 
 O vídeo enviado na conversa já está integrado em `public/videos/dr-rafael-hero.mp4`, com 10 segundos, H.264, 1600 × 900, sem áudio e aproximadamente 860 KB. O poster é um quadro extraído do próprio vídeo.
 
+Em telas de até 767 px, o hero usa a versão vertical `public/videos/dr-rafael-hero-mobile.mp4` (1080 × 1920, H.264, sem recompressão, sem áudio, cerca de 3 MB), alinhada à direita e com sobreposição preta no lugar do degradê. O poster vertical é `public/images/hero-poster-mobile.jpg`. Para trocar essa versão, substitua o MP4 local ou configure `NEXT_PUBLIC_HERO_VIDEO_MOBILE_MP4`.
+
 O hero funciona sem variáveis adicionais. Para substituir o arquivo, troque o MP4 local ou configure `NEXT_PUBLIC_HERO_VIDEO_MP4` com outro caminho público ou URL HTTPS. A variável `NEXT_PUBLIC_HERO_VIDEO_WEBM` é opcional. Faça novo build/deploy após alterar variáveis públicas.
 
-O componente oferece reprodução silenciosa em loop, botão de pausa, poster estático, tratamento de erro, pausa ao ocultar a aba e respeito a `prefers-reduced-motion` e à economia de dados quando informada pelo navegador. Se o autoplay for bloqueado, o botão permite iniciar a reprodução.
+O componente oferece reprodução silenciosa em loop, botão de pausa, poster estático, tratamento de erro, pausa ao ocultar a aba e respeito a `prefers-reduced-motion` e à economia de dados quando informada pelo navegador. Se o autoplay for bloqueado (por exemplo, no Modo Pouca Energia do iPhone), o vídeo começa no primeiro toque na página, e o botão também permite iniciar a reprodução.
 
 ## Conteúdo e integrações
 

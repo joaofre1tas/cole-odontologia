@@ -30,6 +30,9 @@ export const site = {
   heroVideo: {
     mp4: process.env.NEXT_PUBLIC_HERO_VIDEO_MP4 || "/videos/dr-rafael-hero.mp4",
     webm: process.env.NEXT_PUBLIC_HERO_VIDEO_WEBM || "",
+    mobileMp4:
+      process.env.NEXT_PUBLIC_HERO_VIDEO_MOBILE_MP4 ||
+      "/videos/dr-rafael-hero-mobile.mp4",
   },
   analytics: {
     gaId: process.env.NEXT_PUBLIC_GA_ID || "",
